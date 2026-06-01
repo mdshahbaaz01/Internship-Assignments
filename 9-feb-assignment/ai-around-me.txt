@@ -1,0 +1,29 @@
+1. Google Search
+AI helps show the most relevant search results based on the query. Machine Learning analyzes search patterns, keywords, and user behavior to rank pages.
+
+2. YouTube Recommendations
+YouTube suggests videos that match interests and viewing history. ML models learn from watch time, likes, and searches to predict what users may want to watch next.
+
+3. Google Maps
+Google Maps provides traffic updates and the fastest routes. ML analyzes location data from millions of users to estimate traffic conditions and travel times.
+
+4. Gmail Spam Filter
+AI automatically detects and moves spam emails to the spam folder. ML learns from previously identified spam messages and email patterns.
+
+5. Netflix Recommendations
+Netflix recommends movies and TV shows based on viewing habits. ML studies watch history, ratings, and preferences to suggest relevant content.
+
+6. Voice Assistants (Google Assistant, Siri, Alexa)
+Voice assistants understand spoken commands and respond accordingly. ML uses speech recognition and natural language processing to interpret user requests.
+
+7. Online Shopping Apps (Amazon, Flipkart)
+Shopping platforms recommend products that users may like. ML analyzes browsing history, purchases, and product interactions to generate suggestions.
+
+8. Face Unlock on Smartphones
+AI recognizes a user's face to unlock the device. ML models learn facial features and compare them with stored facial data for authentication.
+
+9. Social Media Feeds (Instagram, Facebook)
+Social media platforms show posts that are most relevant to users. ML predicts content preferences based on likes, comments, shares, and viewing activity.
+
+10. ChatGPT and AI Chatbots
+AI chatbots answer questions and assist users in conversations. ML models are trained on large amounts of text data to understand language and generate responses.

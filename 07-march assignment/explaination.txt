@@ -1,0 +1,23 @@
+Netflix recommends movies based on similarity between users or movies.
+
+For example:
+
+User A likes Action, Sci-Fi, and Adventure movies.
+User B likes Action, Sci-Fi, and Adventure movies.
+User C likes Romance and Drama movies.
+
+Using KNN, Netflix finds the "nearest neighbors" (most similar users).
+
+Since User A and User B have similar interests, movies watched by User B can be recommended to User A.
+
+Small Similarity Example
+User	Action	Comedy	Romance
+A	    5	    4   	1
+B	    5	    5	    2
+C	    1	    2	    5
+
+User A is more similar to User B than User C.
+
+Therefore:
+
+Recommend User B's movies to User A
